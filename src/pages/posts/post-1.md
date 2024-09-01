@@ -1,5 +1,6 @@
 ---
 # Esto es llamado como frontmatter
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My First Blog Post'
 pubDate: 2022-07-01
 description: 'This is the first post of my new Astro blog.'
@@ -10,10 +11,7 @@ image:
 tags: ["astro", "blogging", "learning in public"]
 ---
 
-<!-- De aca para abajo es lo que se mostrra en la web -->
-# My First Blog Post
-
-Published on: 2022-07-01
+<!-- De aca para abajo es lo que se muestra en la web -->
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
