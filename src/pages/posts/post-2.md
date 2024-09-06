@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro # Layout de este archivo Child
+layout: ../../layouts/MarkdownPostLayout.astro 
 
 title: My Second Blog Post
 author: Astro Learner
